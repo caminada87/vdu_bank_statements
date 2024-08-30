@@ -1,5 +1,5 @@
 certifi==2024.7.4
-charset-normalizer==3.3.2
+charset-normalizer~=2.0.0
 colorama==0.4.6
 filelock==3.15.4
 fsspec==2024.6.1
@@ -14,14 +14,12 @@ networkx==3.1
 numpy==1.24.4
 packaging==24.1
 pillow==10.4.0
-pyodbc==5.1.0
 regex==2024.5.15
-requests==2.32.3
+requests==2.27.1
 safetensors==0.4.3
 sympy==1.13.1
 tbb==2021.13.0
 tokenizers==0.19.1
 tqdm==4.66.4
-transformers==4.42.4
 typing_extensions==4.12.2
-urllib3==2.2.2
+urllib3==1.26.19
